@@ -1,0 +1,25 @@
+# Flutter Specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+*.iml
+
+# Build Artifacts
+build/
+.pub-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor Specific
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Other
+*.swp
+*.swo
